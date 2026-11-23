@@ -200,3 +200,7 @@ section h4{margin:14px 0 4px;color:var(--navy);font-size:16px}
 .rb{margin:14px 0;max-width:280px;background:#fff;border-radius:12px;padding:10px;box-shadow:0 1px 4px rgba(31,56,100,.12)}.rb img{width:100%;height:auto;border-radius:8px;display:block}.rb figcaption{font-size:14px;line-height:1.45;margin-top:8px;color:#333}
 
 .rb.wide2{max-width:520px}
+
+.pipeline{margin:14px 0 18px;background:#fff;border-radius:12px;padding:10px;box-shadow:0 1px 4px rgba(31,56,100,.12)}
+.pipeline img{width:100%;height:auto;display:block;border-radius:8px}
+.pipeline figcaption{font-size:14px;line-height:1.45;margin-top:8px;color:#333}
